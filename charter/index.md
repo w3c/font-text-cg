@@ -8,7 +8,7 @@ Feedback about this document:
 
 ## Scope
 
-The Font and Text community group gathers individuals and organisations
+The Font and Text community group gathers individuals and organizations
 interested in discussing and developing specifications and implementations
 for technologies such as shaping and layout
 which operate on and at the interface between
@@ -50,7 +50,7 @@ of the documents it is working on.
 ## Communication
 
 This group operates under the
-[W3C Code of Ethics and Professional Conduct ](https://www.w3.org/Consortium/cepc/).
+[W3C Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/).
 
 This group will conduct its work publicly,
 primarily using the public-font-text@w3.org mailing list
@@ -71,12 +71,12 @@ and any resolution will be called out explicitly
 
 Deliverables and supporting documents
 produced by this Community Group are
-hosted on the group’s [Github](https://github.com/font-text).
+hosted on the group’s [GitHub](https://github.com/font-text).
 
 The group uses the private internal-font-text@w3.org mailing list ([archives](https://lists.w3.org/Archives/Member/internal-font-text/))
 for administrative purposes,
 such as organizing meetings,
-requesting commit access to Github,
+requesting commit access to GitHub,
 etc.
 
 Additionally, the group will use
@@ -161,7 +161,7 @@ for discussing details of specific projects.
 Documents maintained by the Community Group
 must use the W3C Software and Document License.
 
-All Github repositories attached to the Community Group
+All GitHub repositories attached to the Community Group
 must contain a copy of the CONTRIBUTING and LICENSE files.
 
 ## Chair Selection
