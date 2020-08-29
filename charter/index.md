@@ -66,7 +66,11 @@ provided sufficient advance notice is given.
 Minutes of any such meeting will be
 posted to the group’s public mailing list
 in a timely manner,
-and any resolution will be called out explicitly
+and will include
+a transcript of the meeting
+to the best of the minute-taker's ability,
+together with a list of any
+decisions and action items resolved within the meeting
 (See [Decision Policy](#decision-policy)).
 
 Deliverables and supporting documents
