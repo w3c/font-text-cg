@@ -25,14 +25,18 @@ and no technical contributions will be accepted.
 
 ## Deliverables
 
-* This Community Group aims to produce a proposed Charter under which
-this community should conduct its technical work,
-either to be used as an updated Charter for this CG,
-or to set up a different group,
+* This Community Group aims to produce a proposed Charter,
+to be used to set up a technical group,
 possibly a W3C Working Group,
-to conduct that work.
+under which members of this community should conduct technical work.
 
-* If the Community Groups determines that it would be appropriate
+* If, after producing such a charter,
+the Community Group determines that its current composition is adequate
+for conducting its work,
+then the charter produced is
+to be adopted as an updated Charter for this CG.
+
+* If the Community Group determines that it would be appropriate
 to divide the technical work into several venues,
 it may produce several such proposed charters
 rather than a single one.
