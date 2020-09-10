@@ -102,12 +102,12 @@ but that cause strong objections from a few people.
 In some cases,
 even after careful consideration of all points of view,
 the group might find itself unable to reach consensus.
-The Chair may record a decision where there is dissent,
+The Chair(s) may record a decision where there is dissent,
 while minuting objections,
 so that the group can make progress.
 Dissenters cannot stop a group’s work
 simply by saying that they cannot live with a decision.
-When the Chair believes that the Group has
+When the Chair(s) believe that the Group has
 duly considered the legitimate concerns of dissenters
 as far as is possible and reasonable,
 the group should move on.
@@ -116,25 +116,25 @@ In addition to decisions made
 on teleconferences or face to face meetings,
 decisions may also be made by a call for consensus
 on the public mailing list;
-consensus to be determined by the Chairs
+consensus to be determined by the Chair(s)
 after some reasonable interval for objections.
 
 All decisions made by the group should be considered resolved
 unless and until new information becomes available
-or unless reopened at the discretion of the Chairs.
+or unless reopened at the discretion of the Chair(s).
 
-The Chairs may appoint individuals to be the
+The Chair(s) may appoint individuals to be the
 Editors of the Community Group's Deliverables.
 Such Editors are bound by the consensus of the Working Group
-as determined by the Chairs,
+as determined by the Chair(s),
 and being an Editor does not imply any independent authority
 over the content of the deliverable.
-Editors may nonetheless be allowed by the Chairs
+Editors may nonetheless be allowed by the Chair(s)
 to make non controversial edits
 even in the absence of an explicit group decision,
 or in order to propose some text to be reviewed by the Community Group.
 Even then, if questions or disagreements arise,
-the final determination of consensus remains with the Chair.
+the final determination of consensus remains with the Chair(s).
 
 ## Community and Business Group Process and Patent Policy
 
@@ -213,7 +213,7 @@ may take any action including no action.
 
 ## Amendments to this Charter
 
-This Charter can be amended by the Chairs
+This Charter can be amended by the Chair(s)
 with consultation of the Community Group,
 if the change is agreed to by W3C’s Community Development Lead
 (Community Development Lead is described in the CG Process).
