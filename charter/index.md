@@ -58,11 +58,11 @@ This group operates under the
 
 This group will conduct its work publicly,
 primarily using the public-font-text@w3.org mailing list
-([archives](https://lists.w3.org/Archives/Public/public-font-text/)
+([archives](https://lists.w3.org/Archives/Public/public-font-text/))
 for minutes, announcements, and high level discussions,
 and [GitHub](https://github.com/font-text)
 for detailed discussions
-(See [Contribution Mechanics](#contribution-mechanics).
+(See [Contribution Mechanics](#contribution-mechanics)).)
 
 Teleconferences and face-to-face meetings
 may be held from time to time,
@@ -116,7 +116,7 @@ In addition to decisions made
 on teleconferences or face to face meetings,
 decisions may also be made by a call for consensus
 on the public mailing list;
-consensus to be determined by the chairs
+consensus to be determined by the Chairs
 after some reasonable interval for objections.
 
 All decisions made by the group should be considered resolved
@@ -132,9 +132,9 @@ over the content of the deliverable.
 Editors may nonetheless be allowed by the Chairs
 to make non controversial edits
 even in the absence of an explicit group decision,
-or in order to propose some text to be reviewed by the community Group.
+or in order to propose some text to be reviewed by the Community Group.
 Even then, if questions or disagreements arise,
-the final determination of consensus remains with the chair.
+the final determination of consensus remains with the Chair.
 
 ## Community and Business Group Process and Patent Policy
 
