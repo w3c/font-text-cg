@@ -60,6 +60,25 @@ All deliverables of this Community Group will use the
 This group maintains an [index](https://font-text.github.io/work-items/)
 of the documents it is working on.
 
+## Community and Business Group Process and Patent Policy
+
+The group operates under the [Community and Business Group Process](https://www.w3.org/community/about/agreements/).
+Terms of in this charter that conflict with those of the Community and Business Group Process are void.
+
+As with other Community Groups,
+W3C seeks organizational licensing commitments
+under the [W3C Community Contributor License Agreement (CLA)](http://www.w3.org/community/about/agreements/cla/).
+(Technical Proposals in this Community Group charter are applicable “Specification” in the CLA).
+When people request to participate
+without representing their organization’s legal interests,
+W3C will in general approve those requests for this group
+with the following understanding:
+W3C will seek and expect an organizational commitment
+under the CLA starting with the individual’s first request
+to make a contribution to a group deliverable.
+The section on Contribution Mechanics describes
+how W3C expects to monitor these contribution requests.
+
 ## Communication
 
 This group operates under the
@@ -144,25 +163,6 @@ even in the absence of an explicit group decision,
 or in order to propose some text to be reviewed by the Community Group.
 Even then, if questions or disagreements arise,
 the final determination of consensus remains with the Chair(s).
-
-## Community and Business Group Process and Patent Policy
-
-The group operates under the [Community and Business Group Process](https://www.w3.org/community/about/agreements/).
-Terms of in this charter that conflict with those of the Community and Business Group Process are void.
-
-As with other Community Groups,
-W3C seeks organizational licensing commitments
-under the [W3C Community Contributor License Agreement (CLA)](http://www.w3.org/community/about/agreements/cla/).
-(Technical Proposals in this Community Group charter are applicable “Specification” in the CLA).
-When people request to participate
-without representing their organization’s legal interests,
-W3C will in general approve those requests for this group
-with the following understanding:
-W3C will seek and expect an organizational commitment
-under the CLA starting with the individual’s first request
-to make a contribution to a group deliverable.
-The section on Contribution Mechanics describes
-how W3C expects to monitor these contribution requests.
 
 ## Contribution Mechanics
 
