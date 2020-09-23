@@ -68,9 +68,9 @@ This group operates under the
 This group will conduct its work publicly,
 primarily using the public-font-text@w3.org mailing list
 ([archives](https://lists.w3.org/Archives/Public/public-font-text/))
-for minutes, announcements, and high level discussions,
+for minutes and announcements,
 and [GitHub](https://github.com/font-text)
-for detailed discussions
+for discussions
 (See [Contribution Mechanics](#contribution-mechanics)).)
 
 Teleconferences and face-to-face meetings
