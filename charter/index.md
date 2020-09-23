@@ -6,7 +6,7 @@ This charter:  {{ page.url | remove: "index.html" | prepend: site.url }}
 Feedback about this document:
     https://github.com/font-text/font-text.github.io/issues
 
-## Scope
+## Goals
 
 The Font and Text community group gathers individuals and organizations
 interested in discussing and developing specifications and implementations
@@ -15,6 +15,8 @@ which operate on and at the interface between
 text encoding and font formats.
 Examples of such technologies are
 shaping engines and text layout applications.
+
+## Scope of work
 
 Under the present charter, the Community Group will
 determine a structure and process
