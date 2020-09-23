@@ -29,6 +29,11 @@ and no technical contributions will be accepted.
 
 ## Deliverables
 
+No technical specifications will be produced by this Community Group
+and no technical contributions are
+to be solicited
+or accepted.
+
 * This Community Group aims to produce a proposed Charter,
 to be used to set up a technical group,
 possibly a W3C Working Group,
