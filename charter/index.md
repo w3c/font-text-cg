@@ -153,7 +153,7 @@ or unless reopened at the discretion of the Chair(s).
 
 The Chair(s) may appoint individuals to be the
 Editors of the Community Group's Deliverables.
-Such Editors are bound by the consensus of the Working Group
+Such Editors are bound by the consensus of the Community Group
 as determined by the Chair(s),
 and being an Editor does not imply any independent authority
 over the content of the deliverable.
