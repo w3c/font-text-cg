@@ -10,9 +10,11 @@ Feedback about this document:
 
 The Font and Text community group gathers individuals and organizations
 interested in discussing and developing specifications and implementations
-for technologies such as shaping and layout
+for technologies
 which operate on and at the interface between
 text encoding and font formats.
+Examples of such technologies are
+shaping engines and text layout applications.
 
 Under the present charter, the Community Group will
 determine a structure and process
