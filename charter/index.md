@@ -4,7 +4,7 @@ title: Font and Text Community Group Charter
 This charter:  {{ page.url | remove: "index.html" | prepend: site.url }}
 
 Feedback about this document:
-    https://github.com/font-text/font-text.github.io/issues
+    https://github.com/w3c/font-text-cg/issues
 
 ## Goals
 
@@ -57,7 +57,7 @@ may also be produced.
 All deliverables of this Community Group will use the
 [W3C Software and Document License](http://www.w3.org/Consortium/Legal/2015/copyright-software-and-document).
 
-This group maintains an [index](https://font-text.github.io/work-items/)
+This group maintains an [index](https://w3c.github.io/font-text-cg/work-items/)
 of the documents it is working on.
 
 ## Community and Business Group Process and Patent Policy
@@ -88,7 +88,7 @@ This group will conduct its work publicly,
 primarily using the public-font-text@w3.org mailing list
 ([archives](https://lists.w3.org/Archives/Public/public-font-text/))
 for minutes and announcements,
-and [GitHub](https://github.com/font-text)
+and [GitHub](https://github.com/w3c/font-text-cg)
 for discussions
 (See [Contribution Mechanics](#contribution-mechanics)).)
 
@@ -107,7 +107,7 @@ decisions and action items resolved within the meeting
 
 Deliverables and supporting documents
 produced by this Community Group are
-hosted on the group’s [GitHub](https://github.com/font-text).
+hosted on the group’s [GitHub](https://github.com/w3c/font-text-cg).
 
 The group uses the private internal-font-text@w3.org mailing list ([archives](https://lists.w3.org/Archives/Member/internal-font-text/))
 for administrative purposes,
