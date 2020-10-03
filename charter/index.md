@@ -63,7 +63,7 @@ of the documents it is working on.
 ## Community and Business Group Process and Patent Policy
 
 The group operates under the [Community and Business Group Process](https://www.w3.org/community/about/agreements/).
-Terms of in this charter that conflict with those of the Community and Business Group Process are void.
+Terms in this charter that conflict with those of the Community and Business Group Process are void.
 
 As with other Community Groups,
 W3C seeks organizational licensing commitments
@@ -90,7 +90,7 @@ primarily using the public-font-text@w3.org mailing list
 for minutes and announcements,
 and [GitHub](https://github.com/w3c/font-text-cg)
 for discussions
-(See [Contribution Mechanics](#contribution-mechanics)).)
+(See [Contribution Mechanics](#contribution-mechanics).)
 
 Teleconferences and face-to-face meetings
 may be held from time to time,
