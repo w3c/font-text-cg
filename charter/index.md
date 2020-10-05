@@ -6,8 +6,8 @@ title: Font and Text Community Group Charter
  - Start Date: *October 5th, 2020*
  - Last Modified: *October 4th, 2020*
 
-Feedback about this document:
-    https://github.com/w3c/font-text-cg/issues
+Submit feedback:
+https://github.com/w3c/font-text-cg/issues
 
 ## Goals
 
@@ -24,7 +24,7 @@ shaping engines and text layout applications.
 Under the present charter, the Community Group will
 determine a structure and process
 under which such specifications may be created
-by which the greatest number of interested parties may be able to participate.
+and the greatest number of interested parties may be able to participate.
 Until such a structure and process is determined,
 no technical development of specifications or implementations
 will be undertaken by this Community Group
@@ -63,7 +63,7 @@ All deliverables of this Community Group will use the
 This group maintains an [index](https://w3c.github.io/font-text-cg/work-items/)
 of the documents it is working on.
 
-## Community and Business Group Process and Patent Policy
+## Community and Business Group Process
 
 The group operates under the [Community and Business Group Process](https://www.w3.org/community/about/agreements/).
 Terms in this charter that conflict with those of the Community and Business Group Process are void.
@@ -91,7 +91,7 @@ This group will conduct its work publicly,
 primarily using the public-font-text@w3.org mailing list
 ([archives](https://lists.w3.org/Archives/Public/public-font-text/))
 for minutes and announcements,
-and [GitHub](https://github.com/w3c/font-text-cg)
+and [GitHub](https://github.com/w3c/font-text-cg) issues
 for discussions
 (See [Contribution Mechanics](#contribution-mechanics).)
 
@@ -110,12 +110,12 @@ decisions and action items resolved within the meeting
 
 Deliverables and supporting documents
 produced by this Community Group are
-hosted on the group’s [GitHub](https://github.com/w3c/font-text-cg).
+hosted on the group’s [GitHub repository](https://github.com/w3c/font-text-cg).
 
 The group uses the private internal-font-text@w3.org mailing list ([archives](https://lists.w3.org/Archives/Member/internal-font-text/))
 for administrative purposes,
 such as organizing meetings,
-requesting commit access to GitHub,
+requesting commit access to the GitHub repository,
 etc.
 
 Additionally, the group will use
@@ -170,7 +170,7 @@ the final determination of consensus remains with the Chair(s).
 ## Contribution Mechanics
 
 Community Group participants agree to make contributions
-in the GitHub repo
+in the GitHub repository
 for the project that they are interested in.
 This may be done by submitting a pull request,
 by raising an issue,
@@ -179,10 +179,10 @@ The Community Group mailing list must not be used
 for discussing details of specific projects.
 
 Documents maintained by the Community Group
-must use the W3C Software and Document License.
+must use the [W3C Software and Document License](https://www.w3.org/Consortium/Legal/copyright-software).
 
 All GitHub repositories attached to the Community Group
-must contain a copy of the CONTRIBUTING and LICENSE files.
+must contain a copy of the CONTRIBUTING.md and [LICENSE.md](https://github.com/w3c/font-text-cg/blob/main/LICENSE.md) files.
 
 ## Chair Selection
 
