@@ -1,7 +1,10 @@
 ---
 title: Font and Text Community Group Charter
 ---
-This charter:  {{ page.url | remove: "index.html" | prepend: site.url }}
+
+ - This Charter:  {{ page.url | remove: "index.html" | prepend: site.url }}
+ - Start Date: *October 5th, 2020*
+ - Last Modified: *October 4th, 2020*
 
 Feedback about this document:
     https://github.com/w3c/font-text-cg/issues
