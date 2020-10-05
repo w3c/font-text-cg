@@ -123,6 +123,23 @@ the #font-text channel on the [W3C IRC server](https://www.w3.org/Project/IRC/)
 during meetings
 and for day-to-day casual chatting.
 
+## Contribution Mechanics
+
+Community Group participants agree to make contributions
+in the GitHub repository
+for the project that they are interested in.
+This may be done by submitting a pull request,
+by raising an issue,
+or by adding a comment to an existing issue.
+The Community Group mailing list must not be used
+for discussing details of specific projects.
+
+Documents maintained by the Community Group
+must use the [W3C Software and Document License](https://www.w3.org/Consortium/Legal/copyright-software).
+
+All GitHub repositories attached to the Community Group
+must contain a copy of the CONTRIBUTING.md and [LICENSE.md](https://github.com/w3c/font-text-cg/blob/main/LICENSE.md) files.
+
 ## Decision Policy
 
 This group will seek to make decisions when there is consensus,
@@ -166,23 +183,6 @@ even in the absence of an explicit group decision,
 or in order to propose some text to be reviewed by the Community Group.
 Even then, if questions or disagreements arise,
 the final determination of consensus remains with the Chair(s).
-
-## Contribution Mechanics
-
-Community Group participants agree to make contributions
-in the GitHub repository
-for the project that they are interested in.
-This may be done by submitting a pull request,
-by raising an issue,
-or by adding a comment to an existing issue.
-The Community Group mailing list must not be used
-for discussing details of specific projects.
-
-Documents maintained by the Community Group
-must use the [W3C Software and Document License](https://www.w3.org/Consortium/Legal/copyright-software).
-
-All GitHub repositories attached to the Community Group
-must contain a copy of the CONTRIBUTING.md and [LICENSE.md](https://github.com/w3c/font-text-cg/blob/main/LICENSE.md) files.
 
 ## Chair Selection
 
