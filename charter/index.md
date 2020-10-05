@@ -8,7 +8,7 @@ Feedback about this document:
 
 ## Goals
 
-The Font and Text community group gathers individuals and organizations
+The Font and Text Community Group gathers individuals and organizations
 interested in discussing and developing specifications and implementations
 for technologies
 which operate on and at the interface between
@@ -16,7 +16,7 @@ text encoding and font formats.
 Examples of such technologies are
 shaping engines and text layout applications.
 
-## Scope of work
+## Scope of Work
 
 Under the present charter, the Community Group will
 determine a structure and process
@@ -34,7 +34,7 @@ and no technical contributions are
 to be solicited
 or accepted.
 
-* This Community Group aims to produce a proposed Charter,
+* This Community Group aims to produce a proposed charter,
 to be used to set up a technical group,
 possibly a W3C Working Group,
 under which members of this community should conduct technical work.
@@ -43,7 +43,7 @@ under which members of this community should conduct technical work.
 the Community Group determines that its current composition is adequate
 for conducting its work,
 then the charter produced is
-to be adopted as an updated Charter for this CG.
+to be adopted as an updated charter for this CG.
 
 * If the Community Group determines that it would be appropriate
 to divide the technical work into several venues,
@@ -222,7 +222,7 @@ may take any action including no action.
 
 ## Amendments to this Charter
 
-This Charter can be amended by the Chair(s)
+This charter can be amended by the Chair(s)
 with consultation of the Community Group,
 if the change is agreed to by W3C’s Community Development Lead
 (Community Development Lead is described in the CG Process).
