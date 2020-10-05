@@ -228,4 +228,3 @@ may take any action including no action.
 This charter can be amended by the Chair(s)
 with consultation of the Community Group,
 if the change is agreed to by W3C’s Community Development Lead
-(Community Development Lead is described in the CG Process).
