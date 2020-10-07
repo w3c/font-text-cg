@@ -7,7 +7,7 @@ title: Font and Text Community Group Charter
  - Last Modified: *October 4th, 2020*
 
 Submit feedback:
-https://github.com/w3c/font-text-cg/issues
+[GitHub Issues](https://github.com/w3c/font-text-cg/issues)
 
 ## Goals
 
@@ -227,4 +227,4 @@ may take any action including no action.
 
 This charter can be amended by the Chair(s)
 with consultation of the Community Group,
-if the change is agreed to by W3C’s Community Development Lead
+if the change is agreed to by W3C’s Community Development Lead.
